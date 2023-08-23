@@ -302,6 +302,12 @@
           "name": "Capacidad de mentorización",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Gestión de equipo",
+          "type": "practice"
+        }
       }
     ]
   },
