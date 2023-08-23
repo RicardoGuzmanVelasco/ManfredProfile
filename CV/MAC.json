@@ -16,7 +16,13 @@
         "region": "Andalucía",
         "municipality": "Málaga"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://www.goodreads.com/review/list/167525924?ref=nav_mybooks"
+      }
+    ]
   },
   "experience": {
     "jobs": [
