@@ -65,7 +65,11 @@
       },
       {
         "organization": {
-          "name": "EscuelaIT"
+          "name": "EscuelaIT",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/23/999569de-0abb-4b88-937f-1efe86c9683a_wjodfrdn_400x400.jpg",
+            "alt": "wjOdFrdn_400x400.jpg"
+          }
         },
         "roles": [
           {
