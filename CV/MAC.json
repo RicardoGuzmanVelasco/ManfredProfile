@@ -1,0 +1,225 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Ricardo",
+      "surnames": "Guzmán Velasco",
+      "title": "Tech lead | Software craftperson | XP | Gamedev",
+      "description": "En lo técnico, me baso en los principios de software que apuntan hacia los valores humanos.\nCreo en el mob programming o, al menos, pair programming (promiscuo) como única forma efectiva de entrega de valor en software.\nNo creo en la entrega sin test automatizados ni sin proceso automático de build y despliegue.\nCreo en el trunk-based development y aborrezco el uso de pull request intraequipo salvo cuando es justificado e inevitable (por ejemplo, por distribución geográfica, incompatibilidad horaria...).\n\nAdemás de lo anterior, en cuanto a producto abogo por la no distanciación entre los equipos técnicos y los equipos de producto o stakeholders cualesquiera. Tienen que entender los qués y los porqués para adaptar los cómos. El producto software tiene que ser el mínimo y más barato posible para servir como solución efectiva al problema de negocio.\nPara ello, tener preocupación activa y constante por el dominio y por disciplinas como la reingeniería de negocio me parece lo más acertado.\n\nMe dedico, por desgracia para mi carrera, al desarrollo de videojuegos.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/19/eceaa28d-37ec-417f-a386-3e960ea207fa_firma-cuadrada.jpg",
+        "alt": "firma cuadrada.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJLSHbT8RZcg0RzzLKyZLcJWA)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Málaga"
+      }
+    }
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SonarQube",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TeamCity",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TestingLibrary",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unity3D",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería informática",
+        "startDate": "2010-09-01",
+        "institution": {
+          "name": "UCLM",
+          "description": "Hice el grado pero nunca entregué el proyecto final. Así que título como tal no tengo."
+        },
+        "finishDate": "2016-06-01"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/r-g-v",
+          "type": "linkedin"
+        },
+        {
+          "URL": "Https://github.com/ricardoguzmanvelasco",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/RGVgamedev",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "ricardo.guzman.velasco@outlook.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "613034314",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": ".Net Core",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "Google Firebase",
+          "type": "technology"
+        },
+        {
+          "name": "Jetbrains",
+          "type": "technology"
+        },
+        {
+          "name": "SonarQube",
+          "type": "technology"
+        },
+        {
+          "name": "TeamCity",
+          "type": "technology"
+        },
+        {
+          "name": "TestingLibrary",
+          "type": "technology"
+        },
+        {
+          "name": "UML",
+          "type": "technology"
+        },
+        {
+          "name": "Unity3D",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "C++",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Unreal",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Software Architect",
+        "Tech Lead"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "SonarQube",
+        "type": "technology"
+      },
+      {
+        "name": "TeamCity",
+        "type": "technology"
+      },
+      {
+        "name": "TestingLibrary",
+        "type": "technology"
+      },
+      {
+        "name": "Unity3D",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Bajo un paraguas con mindset de software craftspersonship o principios XP, me daría exactamente igual la posición, porque aprendería de todas las personas del equipo por igual.\nActualmente ejerzo de lead en un equipo pequeño en que inculco esos valores pero el resto del equipo los metaboliza en tanto que yo se lo presento, por lo que no se da esa bidireccionalidad.\nA nivel humano lo primero que valoraría es que la empresa sea inclusiva y diversa, y que tenga mecanismos para asegurar que así es y que es un lugar seguro. No pienso trabajar más en empresas que no cumplan esto tan básico."
+  }
+}
