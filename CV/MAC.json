@@ -123,7 +123,11 @@
       },
       {
         "organization": {
-          "name": "Redvel Games"
+          "name": "Redvel Games",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/23/9f99630b-f4d1-4338-b9a4-77549bd9c5bd_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla 2023-08-23 153159.png"
+          }
         },
         "roles": [
           {
