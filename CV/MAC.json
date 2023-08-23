@@ -77,7 +77,7 @@
         },
         "roles": [
           {
-            "name": "Teacher",
+            "name": "TDD Teacher",
             "startDate": "2022-03-01",
             "finishDate": "2022-04-30",
             "challenges": [
