@@ -8,19 +8,130 @@
     "profile": {
       "name": "Ricardo",
       "surnames": "Guzmán Velasco",
-      "title": "Tech lead | Software craftperson | XP | Gamedev",
-      "description": "En lo técnico, me baso en los principios de software que apuntan hacia los valores humanos.\nCreo en el mob programming o, al menos, pair programming (promiscuo) como única forma efectiva de entrega de valor en software.\nNo creo en la entrega sin test automatizados ni sin proceso automático de build y despliegue.\nCreo en el trunk-based development y aborrezco el uso de pull request intraequipo salvo cuando es justificado e inevitable (por ejemplo, por distribución geográfica, incompatibilidad horaria...).\n\nAdemás de lo anterior, en cuanto a producto abogo por la no distanciación entre los equipos técnicos y los equipos de producto o stakeholders cualesquiera. Tienen que entender los qués y los porqués para adaptar los cómos. El producto software tiene que ser el mínimo y más barato posible para servir como solución efectiva al problema de negocio.\nPara ello, tener preocupación activa y constante por el dominio y por disciplinas como la reingeniería de negocio me parece lo más acertado.\n\nMe dedico, por desgracia para mi carrera, al desarrollo de videojuegos.",
-      "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/19/eceaa28d-37ec-417f-a386-3e960ea207fa_firma-cuadrada.jpg",
-        "alt": "firma cuadrada.jpg"
-      },
-      "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJLSHbT8RZcg0RzzLKyZLcJWA)",
-        "country": "España",
-        "region": "Andalucía",
-        "municipality": "Málaga"
-      }
+      "title": "Tech Lead | Gamedev | Teacher",
+      "description": "This page intentionally left blank."
     }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Redvel Games"
+        },
+        "roles": [
+          {
+            "name": "Technical Lead",
+            "startDate": "2023-01-01",
+            "challenges": [
+              {
+                "description": "Skills: Extreme Programming · Functional Programming · Mob Programming · Pair Programming · Knowledge Sharing · Collaborative Problem Solving · Exploratory Testing · ASP.NET MVC · .NET framework"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "EscuelaIT"
+        },
+        "roles": [
+          {
+            "name": "Teacher",
+            "startDate": "2022-10-01",
+            "finishDate": "2022-11-30",
+            "challenges": [
+              {
+                "description": "Skills: Test Cases · Regression Testing · xUnit · Test Automation · Unit Testing · NUnit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "EscuelaIT"
+        },
+        "roles": [
+          {
+            "name": "Teacher",
+            "startDate": "2022-03-01",
+            "finishDate": "2022-04-30",
+            "challenges": [
+              {
+                "description": "Teacher at TDD crash courses series trying to settle down conceptions and tools, based on my humble experience."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Redvel Games"
+        },
+        "roles": [
+          {
+            "name": "Lead Software Architect",
+            "startDate": "2021-07-01",
+            "challenges": [
+              {
+                "description": "Static analysis monitoring, daily integrated with nightly testing in CI/CD. \nLead software designer and architect, as well as promoting team culture so everyone in the team may do the same way."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Redvel Games"
+        },
+        "roles": [
+          {
+            "name": "Senior Developer",
+            "startDate": "2020-03-01",
+            "finishDate": "2021-06-30",
+            "challenges": [
+              {
+                "description": "Lead of a junior team — made up of 3 developers — for about six months: architecture sketching, software design, unit testing, dependency management. \nAnalysis, redesign, refactoring and optimization of the communication between client and its server, using Playfab as Backend-As-A-Service."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Redvel Games"
+        },
+        "roles": [
+          {
+            "name": "Mid Developer",
+            "startDate": "2019-02-01",
+            "finishDate": "2020-03-31",
+            "challenges": [
+              {
+                "description": "Member of the new project team throughout both pre-production and production.\nSole maintainer regarding legacy project."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Redvel Games"
+        },
+        "roles": [
+          {
+            "name": "Junior Developer",
+            "startDate": "2018-08-01",
+            "finishDate": "2019-02-28",
+            "challenges": [
+              {
+                "description": "Maintenance of company's main project: development of new features, documentation of legacy systems and mainly bugfixing.\nMoved after a while to new projects team as design tools support developer."
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   "knowledge": {
     "languages": [
