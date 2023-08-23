@@ -135,6 +135,24 @@
     "projects": [
       {
         "details": {
+          "name": "MálagaJam",
+          "description": "MálagaJam es una asociación sin ánimo de lucro que se ha establecido como una de las mayores gamejams nacionales e incluso mundiales. En la última Global Game Jam ocupó la segunda posición mundial y primera europea.\nEn la asociación nos preocupamos por acercar el mundo del desarrollo de videojuegos de una manera sana y segura a toda la gente que se apunta al evento.\n\nParticipo como voluntario para ayudar a un staff que, sin ánimo de lucro, ha logrado revivir la organización desde cero hasta mucho más alto de lo que se podía esperar. Y todo ello con valores humildes e inclusivos.",
+          "URL": "https://malagajam.com/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/23/8ff2a2e3-0acb-4caa-8a5b-343fade50cf6_304378569_5154078839.png",
+            "alt": "304378569_515407883918945_8884817968464956483_n.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-01-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Gamedev Crafters",
           "description": "TL;DR: hacemos mentorías, damos charlas y ofrecemos consultorías desde la perspectiva de ingeniería de software a la comunidad e industria de desarrollo de videojuegos.\n\nEn el ecosistema digital de Málaga se encuentra una clara discrepancia entre la parte tech generalista y la parte exclusivamente de desarrollo de videojuegos.\nParte de esta diferencia gira en torno a los estándares de contratación de las empresas de gamedev, pero también hemos reconocido un patrón en la gente aplicante en cuanto a la falta de formación y sobre todo de conocimiento de la industria.\nLo primero podría achacarse a las denunciables prácticas de gran parte de quienes ofrecen formación de videojuegos local. Todas las personas egresadas de allí pueden evitar formar parte de un entorno laboral tóxico si se les mentoriza a tiempo. Y eso es lo que estamos intentando.\nAdemás, por la parte de estándares de calidad técnicos estamos intentando que de una vez la industria gamedev nacional se dé cuenta de lo que puede abaratarle tener dirección técnica que les guíe y traiga las prácticas, ya naturalizadas, del desarrollo de software generalista.\n\nHago este proyecto desinteresadamente junto a [Iván Moreno García-Fresneda](https://www.linkedin.com/in/iv%C3%A1n-moreno-garc%C3%ADa-fresneda-9004981bb). No disponemos de web, cuentas de redes sociales ni similares por falta de medios my de tiempo. Queremos centrarnos en aportar el valor que deseamos aportar, nada más.",
           "image": {
@@ -147,24 +165,6 @@
           {
             "name": "Developer",
             "startDate": "2023-03-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Voluntario en MálagaJam",
-          "description": "MálagaJam es una asociación sin ánimo de lucro que se ha establecido como una de las mayores gamejams nacionales e incluso mundiales. En la última Global Game Jam ocupó la segunda posición mundial y primera europea.\nEn la asociación nos preocupamos por acercar el mundo del desarrollo de videojuegos de una manera sana y segura a toda la gente que se apunta al evento.",
-          "URL": "https://malagajam.com/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/23/8ff2a2e3-0acb-4caa-8a5b-343fade50cf6_304378569_5154078839.png",
-            "alt": "304378569_515407883918945_8884817968464956483_n.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-01-01"
           }
         ]
       }
@@ -375,7 +375,7 @@
         "name": "Gamedev Crafters"
       },
       {
-        "name": "Voluntario en MálagaJam"
+        "name": "MálagaJam"
       }
     ]
   }
