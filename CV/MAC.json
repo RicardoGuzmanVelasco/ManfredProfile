@@ -17,6 +17,14 @@
         "municipality": "Málaga"
       }
     },
+    "recommendations": [
+      {
+        "title": "Lista reducida de mis lecturas profesionales favoritas",
+        "type": "reading",
+        "URL": "https://github.com/RicardoGuzmanVelasco#readings",
+        "summary": "Desde la pandemia he centrado mi tiempo libre en formarme leyendo bibliografía relacionada con el software de un modo u otro.\nEn mi perfil de GitHub destaco algunas de las que me gustaría compartir con cualquier persona interesada."
+      }
+    ],
     "relevantLinks": [
       {
         "type": "other",
@@ -436,6 +444,12 @@
       },
       {
         "name": "MálagaJam"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "Lista reducida de mis lecturas profesionales favoritas",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/30/1911db20-8750-4abe-9215-960a056feea4_kisspng-book-free-co.png"
       }
     ]
   }
