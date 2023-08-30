@@ -23,6 +23,11 @@
         "type": "reading",
         "URL": "https://github.com/RicardoGuzmanVelasco#readings",
         "summary": "Desde la pandemia he centrado mi tiempo libre en formarme leyendo bibliografía relacionada con el software de un modo u otro.\nEn mi perfil de GitHub destaco algunas de las que me gustaría compartir con cualquier persona interesada."
+      },
+      {
+        "title": "Perfil de lecturas en Goodreads",
+        "type": "reading",
+        "URL": "https://www.goodreads.com/user/show/167525924-ricardo-guzm-n-velasco"
       }
     ],
     "relevantLinks": [
@@ -450,6 +455,10 @@
       {
         "name": "Lista reducida de mis lecturas profesionales favoritas",
         "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/30/1911db20-8750-4abe-9215-960a056feea4_kisspng-book-free-co.png"
+      },
+      {
+        "name": "Perfil de lecturas en Goodreads",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/30/82c08da2-44b8-438c-b5d2-f4519ef821fe_goodreads.jpg"
       }
     ]
   }
