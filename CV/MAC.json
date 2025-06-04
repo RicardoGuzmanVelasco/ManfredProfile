@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -31,6 +31,18 @@
       }
     ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/r-g-v"
+      },
+      {
+        "type": "github",
+        "URL": "Https://github.com/ricardoguzmanvelasco"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/RGVgamedev"
+      },
       {
         "type": "other",
         "URL": "https://www.goodreads.com/review/list/167525924?ref=nav_mybooks"
@@ -227,10 +239,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -339,15 +353,6 @@
           "URL": "https://twitter.com/RGVgamedev",
           "type": "twitter"
         }
-      ],
-      "contactMails": [
-        "ricardo.guzman.velasco@outlook.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "613034314",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -399,7 +404,7 @@
           "type": "technology"
         },
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
