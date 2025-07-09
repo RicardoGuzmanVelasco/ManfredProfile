@@ -398,14 +398,6 @@
         {
           "name": "Java",
           "type": "technology"
-        },
-        {
-          "name": "Python",
-          "type": "technology"
-        },
-        {
-          "name": "Unreal",
-          "type": "technology"
         }
       ],
       "preferredRoles": [
