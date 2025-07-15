@@ -120,6 +120,27 @@
       },
       {
         "organization": {
+          "name": "RGV",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/07/15/bfa9697d-786d-4ed9-95ff-70b57cf35cb0_firma-cuadrada.jpg",
+            "alt": "Firma cuadrada.jpg"
+          },
+          "URL": "http://rgv.wtf"
+        },
+        "roles": [
+          {
+            "name": "Technical Consultant",
+            "startDate": "2021-10-01",
+            "challenges": [
+              {
+                "description": "Actualmente llevo unos años ejerciendo como consultor freelance. Catalizo a los equipos, elevo sus estándares de calidad técnicos y deontológicos, o lidero proyectos desde lo técnico."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Redvel Games",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/23/d36499eb-d4c1-45d1-8aee-e5727cdf865e_captura-de-pantalla-.png",
