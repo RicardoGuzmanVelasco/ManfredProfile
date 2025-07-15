@@ -392,6 +392,10 @@
         {
           "name": "TestingLibrary",
           "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
