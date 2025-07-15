@@ -298,7 +298,19 @@
       },
       {
         "skill": {
+          "name": "Elixir",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Google Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
           "type": "technology"
         }
       },
@@ -446,19 +458,23 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "SonarQube",
+        "name": ".NET",
         "type": "technology"
       },
       {
-        "name": "TeamCity",
+        "name": "Azure",
+        "type": "technology"
+      },
+      {
+        "name": "Elixir",
+        "type": "technology"
+      },
+      {
+        "name": "Jenkins",
         "type": "technology"
       },
       {
         "name": "TestingLibrary",
-        "type": "technology"
-      },
-      {
-        "name": "Unity3D",
         "type": "technology"
       }
     ],
