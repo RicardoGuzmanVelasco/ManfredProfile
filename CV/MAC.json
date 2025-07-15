@@ -130,6 +130,7 @@
           {
             "name": "Lead Software Architect",
             "startDate": "2021-07-01",
+            "finishDate": "2024-03-01",
             "challenges": [
               {
                 "description": "Static analysis monitoring, daily integrated with nightly testing in CI/CD. \nLead software designer and architect, as well as promoting team culture so everyone in the team may do the same way."
