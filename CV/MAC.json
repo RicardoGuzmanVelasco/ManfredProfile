@@ -21,6 +21,12 @@
         "municipality": "Málaga"
       }
     },
+    "interestingFacts": [
+      {
+        "topic": "Gamedev Crafters",
+        "fact": "Cofundé un programa de mentorías non-profit para personas junior o que quisieran entrar, desde perfiles técnicos, bien a software generalista o bien a la industria del videojuego.\nTras un éxito inesperado y atronador, más de 50 personas han pasado por unas mentorías que actualmente cuentan con su tercera edición."
+      }
+    ],
     "recommendations": [
       {
         "title": "Lista reducida de mis lecturas profesionales favoritas",
